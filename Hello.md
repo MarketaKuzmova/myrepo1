@@ -1,2 +1,2 @@
 hello, git!
-Hello from br1!
+Hello from br2!
